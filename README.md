@@ -5,7 +5,7 @@ In this showcase, OpenID Connect security is added by using MicroProfile JWT Aut
 
 ## Status
 
-![Build status]()
+![Build status](https://codebuild.eu-west-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiOWhMOGVkcWdMbXAvekErVDRnN04rUW9rK1VsTVhjYitNVytzR2trb1c3L1hwUDAza3FQYUUyZERLNi8xR2N0UDg1bE1GbUJzVFV3eUFHOGtMWVhLK0FjPSIsIml2UGFyYW1ldGVyU3BlYyI6ImhRanVsd1RoRWpzUy8wSk0iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
 
 ## Release Information
 
